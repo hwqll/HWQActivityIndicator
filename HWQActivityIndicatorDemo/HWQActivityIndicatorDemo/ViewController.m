@@ -17,8 +17,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-   
-    
 }
 - (void)download {
     //开始
